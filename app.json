@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "de-test-mobile",
+    "slug": "de-test-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "de-test-mobile"
+}
